@@ -1,7 +1,7 @@
 <?php
 ### DATABASE CONFIGURATION
 $GLOBALS['DBHOST'] = "localhost";
-$GLOBALS['DBNAME'] = "scrappoint";
+$GLOBALS['DBNAME'] = "E-Commerce";
 $GLOBALS['DBUSER'] = "root";
 $GLOBALS['DBPASS'] = "";
 ?>
